@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anandvunnam
 - 👀 I’m interested in learning new tech things and to code complex algos.
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Machine Learning
 - 📫 You can reach me via LinkedIn https://www.linkedin.com/in/anand-vunnam/
 
 <!---
